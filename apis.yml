@@ -1,0 +1,44 @@
+aid: lf-connectivity
+name: LF Connectivity
+description: >-
+  LF Connectivity is a Linux Foundation project umbrella launched with Meta to improve enhanced access to networks. It includes sub-projects like Magma for mobile network core, Terragraph for wireless backhaul, and ISP Toolbox for network planning and analysis.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Connectivity
+  - Networking
+  - Telecom
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/lf-connectivity/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: lf-connectivity:lf-connectivity-api
+    name: LF Connectivity API
+    description: >-
+      Programmatic access to LF Connectivity network tools, Magma APIs, and network planning resources.
+    humanURL: https://lfconnectivity.org/
+    tags:
+  - Connectivity
+  - Networking
+  - Telecom
+  - Linux Foundation
+    properties:
+      - type: Documentation
+        url: https://lfconnectivity.org/
+common:
+  - type: Documentation
+    name: LF Connectivity Documentation
+    description: Official documentation for LF Connectivity.
+    url: https://lfconnectivity.org/
+  - type: GitHubOrg
+    name: LF Connectivity GitHub
+    description: Source code and repositories for LF Connectivity.
+    url: https://github.com/magma
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com

@@ -23,10 +23,10 @@ apis:
       Programmatic access to LF Connectivity network tools, Magma APIs, and network planning resources.
     humanURL: https://lfconnectivity.org/
     tags:
-  - Connectivity
-  - Networking
-  - Telecom
-  - Linux Foundation
+      - Connectivity
+      - Networking
+      - Telecom
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://lfconnectivity.org/

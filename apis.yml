@@ -113,6 +113,16 @@ apis:
       - type: GitHubRepo
         url: https://github.com/lf-connectivity/ISPToolbox
 common:
+  - type: IssueTracker
+    url: https://github.com/magma/magma/issues
+  - type: Releases
+    url: https://github.com/magma/magma/releases
+  - type: SecurityPolicy
+    url: https://github.com/magma/magma/blob/master/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/magma/magma/blob/master/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/magma/magma/blob/master/CONTRIBUTING.md
   - type: DomainSecurity
     url: security/lf-connectivity-domain-security.yml
   - type: Documentation

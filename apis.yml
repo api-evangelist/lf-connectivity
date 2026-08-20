@@ -30,6 +30,14 @@ tags:
   - Telecom
   - Wireless
   - 5G
+  - Open-Source
+tags_raw:
+  - Connectivity
+  - Linux Foundation
+  - Networking
+  - Telecom
+  - Wireless
+  - 5G
   - Open Source
 created: '2026-03-16'
 modified: '2026-04-28'
@@ -63,6 +71,11 @@ apis:
     humanURL: https://terragraph.com/
     tags:
       - Wireless
+      - Last Mile
+      - Gigabit
+      - Mesh
+    tags_raw:
+      - Wireless
       - Last-Mile
       - Gigabit
       - Mesh
@@ -92,6 +105,11 @@ apis:
       network simulations and reference examples demonstrating their use.
     humanURL: https://github.com/lf-connectivity/maveric
     tags:
+      - Artificial Intelligence
+      - ML
+      - Cellular Simulation
+      - Network Modeling
+    tags_raw:
       - AI
       - ML
       - Cellular Simulation

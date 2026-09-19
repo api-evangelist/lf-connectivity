@@ -117,7 +117,7 @@ apis:
     humanURL: https://github.com/lf-connectivity/maveric
     tags:
       - Artificial Intelligence
-      - ML
+      - Machine-Learning
       - Cellular Simulation
       - Network Modeling
     tags_raw:

@@ -1,4 +1,4 @@
-# LF Connectivity (lf-connectivity)
+# LF Connectivity
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,71 +66,105 @@
 
 LF Connectivity is a Linux Foundation umbrella initiative, launched with Meta, that improves access to networks through open source projects. Sub-projects include Magma (a next-generation packet core), Terragraph (gigabit wireless last-mile access), Open M-Plane (RAN configuration and management), Maveric (AI/ML cellular network simulations), and the ISP Toolbox (planning and analytics for ISP operators).
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/lf-connectivity/refs/heads/main/apis.yml)
+**Areas:** Connectivity · Linux Foundation · Networking · Telecommunications · Wireless · 5G · Open Source
 
-## Scope
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+## LF Connectivity on APIs.io
 
-## Tags:
- - Connectivity, Linux Foundation, Networking, Telecom, Wireless, 5G, Open Source
+Everything profiled for LF Connectivity is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lf-connectivity/](https://apis.io/providers/lf-connectivity/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
-- **Created:** 2026-03-16
-- **Modified:** 2026-04-28
+### APIs (5)
 
-## APIs
+- [Magma](https://apis.io/apis/lf-connectivity/magma/) — Magma is a next-generation packet core that delivers cellular network innovation at lower cost of ownership, with REST and gRPC APIs for orchestration,…
+- [Terragraph](https://apis.io/apis/lf-connectivity/terragraph/) — Terragraph is a wireless technology that enables internet service providers to deliver gigabit-speed last-mile access to homes, enterprises, and…
+- [Open M-Plane](https://apis.io/apis/lf-connectivity/open-mplane/) — Open M-Plane is a software component of Meta's Evenstar hardware design for configuration and management of the Radio Access Network (RAN).
+- [Maveric](https://apis.io/apis/lf-connectivity/maveric/) — Maveric is a platform that uses AI/ML to provide realistic cellular network simulations and reference examples demonstrating their use.
+- [ISP Toolbox](https://apis.io/apis/lf-connectivity/isp-toolbox/) — ISP Toolbox empowers ISP operators with products, tools, and resources to better plan, analyze, and run their broadband businesses.
 
-### Magma
-Magma is a next-generation packet core that delivers cellular network innovation at lower cost of ownership, with REST and gRPC APIs for orchestration, subscriber management, and policy enforcement.
+### Published properties
 
-**Human URL:** [https://magmacore.org/](https://magmacore.org/)
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Properties
-- [Documentation](https://magma.github.io/magma/docs/basics/introduction.html)
-- [GitHub Repository](https://github.com/magma/magma)
+#### Security (1)
 
-### Terragraph
-Terragraph is a wireless technology that enables internet service providers to deliver gigabit-speed last-mile access to homes, enterprises, and multi-dwelling buildings cost-effectively.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://terragraph.com/](https://terragraph.com/)
+- [Lf Connectivity Domain Security](https://apis.io/security/lf-connectivity/lf-connectivity-domain-security/)
 
-#### Properties
-- [Documentation](https://terragraph.com/)
-- [GitHub Organization](https://github.com/terragraph)
+#### Plans and pricing (1)
 
-### Open M-Plane
-Open M-Plane is a software component of Meta's Evenstar hardware design for configuration and management of the Radio Access Network (RAN).
+Published plans, tiers and prices.
 
-**Human URL:** [https://github.com/lf-connectivity/open-mplane](https://github.com/lf-connectivity/open-mplane)
+- [Lf Connectivity Plans Pricing](https://apis.io/plans/lf-connectivity/lf-connectivity-plans-pricing/)
 
-#### Properties
-- [GitHub Repository](https://github.com/lf-connectivity/open-mplane)
+#### Rate limits (1)
 
-### Maveric
-Maveric is a platform that uses AI/ML to provide realistic cellular network simulations and reference examples demonstrating their use.
+Published request limits.
 
-**Human URL:** [https://github.com/lf-connectivity/maveric](https://github.com/lf-connectivity/maveric)
+- [Lf Connectivity Rate Limits](https://apis.io/rate-limits/lf-connectivity/lf-connectivity-rate-limits/)
 
-#### Properties
-- [GitHub Repository](https://github.com/lf-connectivity/maveric)
+#### FinOps (1)
 
-### ISP Toolbox
-ISP Toolbox empowers ISP operators with products, tools, and resources to better plan, analyze, and run their broadband businesses.
+What the API costs to run, by operation.
 
-**Human URL:** [https://github.com/lf-connectivity/ISPToolbox](https://github.com/lf-connectivity/ISPToolbox)
+- [Lf Connectivity Finops](https://apis.io/finops/lf-connectivity/lf-connectivity-finops/)
 
-#### Properties
-- [GitHub Repository](https://github.com/lf-connectivity/ISPToolbox)
+## Where to find this API
 
-## Common Properties
-- [LF Connectivity Documentation](https://lfconnectivity.dev/)
-- [LF Connectivity GitHub](https://github.com/lf-connectivity)
-- [LF Connectivity Website](https://lfconnectivity.dev/)
-- [Magma GitHub](https://github.com/magma)
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Maintainers
-**FN:** Kin Lane
+- [Website](https://lfconnectivity.dev/)
+- [Documentation](https://lfconnectivity.dev/)
+- [Blog](https://magmacore.org/feed/)
 
-**Email:** info@apievangelist.com
+## API Evangelist rating
+
+**Kin Score 13.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 39.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.0** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lf-connectivity/](https://apis.io/providers/lf-connectivity/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LF Connectivity: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lf-connectivity/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
